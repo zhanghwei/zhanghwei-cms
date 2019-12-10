@@ -16,8 +16,8 @@ import com.zhangwei.cms.pojo.User;
 public class UserTest {
 
 	@Autowired
-	private UserDao dao;
-	
+	private UserDao dao;     
+	 
 	
 	@Test
 	public void select(){
